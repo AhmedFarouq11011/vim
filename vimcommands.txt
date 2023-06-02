@@ -1,1 +1,34 @@
+Vim work through modes
+you can leave any mode by pressing esc
+====================================================
 
+1-Insert mode
+you can enter inster mode through alot of keys each one them will place you in a specefic place
+	to write before the cursor use <i>
+	to write after the cursor use <a>
+	to write at the beginning of the line use <I>
+	to write at the end of the line use <A>
+        to wtire in a new line after the cursor <o>
+	to write in a new line before the cursor <O>
+=======================================================
+
+2-navigating 
+you can navigate the file outside of insert mode
+	to move through the file use <hjkl> for left down up right respectfully
+	to go the beginning of the file use <gg> and to go to the end of the file use <G>
+	to move to the end of the line <$> and to go to the begging of the line use <0>
+	to go to the previouse space in a paragraph use <{> to go to the next space in a paragraph use <}>
+	to go to the next word not seperated by space use <w> to go to the next word seperated by space use <W>
+	to go to the prev word not seperated by space use <b> to go to the prev word seperated by space use <B>
+	
+==================================================
+
+3-seach through the file
+	to search through the file use /word to go to the next match use <n> to move to the prev match use <N>
+
+
+
+=======================================================
+
+4-editing file
+	to delete a line you can use <dd> to delete an x number of lines use <xdd>	
